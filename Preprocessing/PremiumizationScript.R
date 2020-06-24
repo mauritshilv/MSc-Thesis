@@ -1,4 +1,4 @@
-# The purpose of this R script is to use a k-means method to create the new 'Premiumization Level' variable
+# The purpose of this R script is to use a clustering method to create the new 'Premiumization Level' variable
 # Author: Maurits Hilverda
 # Date: June 23, 2020
 
