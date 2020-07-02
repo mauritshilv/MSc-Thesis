@@ -3,13 +3,13 @@
 
 ---Preprocessing---
 
-Note
-Scraper.py
-facerecognitionscript.py
-ImageAnalysisScript.py
-ObjectRecognitionScript.py (using classes.txt)
-RevGeoR.R
-PremiumizationScript.R
+Note,
+Scraper.py,
+facerecognitionscript.py,
+ImageAnalysisScript.py,
+ObjectRecognitionScript.py (using classes.txt),
+RevGeoR.R,
+PremiumizationScript.R,
 
 
 ---Figures----------
@@ -19,5 +19,5 @@ PremiumizationScript.R
 
 ---Modelling--------
 
-DataAnalysis.R
+DataAnalysis.R,
 
